@@ -1,0 +1,3 @@
+**STRINGSS**
+
+new trick learned . append the string s with itself to figure out any possible rotated string. LC-796 ROTATE STRING
